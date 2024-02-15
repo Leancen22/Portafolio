@@ -1,0 +1,309 @@
+{
+    "basics": {
+      "name": "Leandro Mesa",
+      "label": "Full Stack Developer & Creador de contenido",
+      "image": "./cv-image.webp",
+      "email": "leandromesaprofesional@gmail.com",
+      "phone": "+598 98858254",
+      "url": "https://johndoe.com",
+      "summary": "Soy un desarrollador de software uruguayo, me apasiona el desarrollo web, a lo largo de estos años he culminado variedad de cursos formativos y proyectos los cuales me han permitido estar a la vanguardia de las nuevas tecnologías que se emplean en el área.",
+      "location": {
+        "address": "Private",
+        "postalCode": "12000",
+        "city": "Montevideo",
+        "countryCode": "UY",
+        "region": "Uruguay"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "leandromesa",
+          "url": "https://www.linkedin.com/in/leandromesa/"
+        },
+        {
+          "network": "Github",
+          "username": "Leancen22",
+          "url": "https://github.com/Leancen22"
+        },
+        {
+          "network": "X",
+          "username": "LeandroMesa22",
+          "url": "https://twitter.com/LeandroMesa22"
+        },
+        {
+          "network": "YouTube",
+          "username": "leandromesa327",
+          "url": "https://www.youtube.com/channel/UCoi4kms7W_kIqZBcjaromKQ"
+        }
+    ]
+    },
+    "work": [
+      {
+        "name": "Interfase ISA",
+        "position": "Semi Senior Full Stack Developer",
+        "url": "https://company.com",
+        "startDate": "2021-10-01",
+        "endDate": null,
+        "summary": "Desarrollo y soporte de portales para entidades gubernamentales y privadas, tales como SET Paraguay, intendencia de Maldonado, E-kuatia, intendencia de Canelones, UTE, ANP, SCER, BSE, entre otras. Implementación, desarrollo y mantenimiento de herramientas de desarrollo para el sector, así como administración de servidores y aplicaciones. Capacitación en tecnologías empleadas en el sector para el desarrollo de portales y mantenimiento de estos, tanto a compañeros de equipo como a clientes, de forma personalizada y adaptada a las necesidades.",
+        "highlights": [
+          "Started the company"
+        ]
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "Drupaleros",
+        "position": "Speaker & Colaborador",
+        "url": "",
+        "startDate": "2022-09-01",
+        "endDate": null,
+        "summary": "Parte de la asociación de drupal España, donde he realizado charlas de diversos temas relacionados a la tecnología y colaborando con la comunidad.",
+        "highlights": [
+          "Awarded 'Volunteer of the Month'"
+        ]
+      },
+      {
+      "organization": "Grupo MINA",
+      "position": "Profesor de Robótica educativa",
+      "url": "https://youtube.com/playlist?list=PLpGDMoCLxQv3VKnOhjYN9S8_ZpI8iJuIp",
+      "startDate": "2022-10-01",
+      "endDate": "2022-12-01",
+      "summary": "Se impartió un taller de robótica educativa para estudiantes de primer a tercer año de liceo donde se vio como programar un robot de forma simple hasta llegar a un lenguaje de programación como Python. Este trabajo se entrego como proyecto final de TRERB, materia de la universidad FING/UDELAR.",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+    ],
+    "education": [{
+      "institution": "Universidad de la Republica UDELAR",
+      "url": "https://institution.com/",
+      "area": "Ingeniería",
+      "studyType": "Ingeniería en Computación",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "score": "4.0",
+      "courses": [
+        "Desarrollo web", "Desarrollo de aplicaciones", "Administración", "Patrones de diseño"
+      ]
+    },
+    {
+      "institution": "Universidad ORT",
+      "url": "https://institution.com/",
+      "area": "Ethical Hacking",
+      "studyType": "Hacker Ético y Gestor de Incidentes",
+      "startDate": "2022-01-01",
+      "endDate": "2022-06-01",
+      "score": "4.0",
+      "courses": [
+        "OWASP Top 10",
+        "Linux", "Bash",
+        "Nmap","Python","MySQL", "Ngrok" ,"Unix",
+        "Metasploitable"
+      ]
+    },
+    {
+      "institution": "Forcontu",
+      "url": "https://institution.com/",
+      "area": "Agrupación de todos los cursos de experto en Drupal (Frontend, Backend, Site Building).",
+      "studyType": "Master en Drupal",
+      "startDate": "2021-07-01",
+      "endDate": "2022-12-01",
+      "score": "4.0",
+      "courses": [
+        "Drupal", "Site Building", "Fronted", "Backend", "POO", "PHP", "Twig"
+      ]
+    },
+    {
+      "institution": "CoderHouse",
+      "url": "https://institution.com/",
+      "area": "Bootcamp de desarrollo backend donde se trabajó con tecnologias modernas para generar un ecommerce funcional con pasarela de pago incluida.",
+      "studyType": "Desarrollo Backend",
+      "startDate": "2022-06-01",
+      "endDate": "2022-12-01",
+      "score": "4.0",
+      "courses": [
+        "Nodejs", "Express","Javascript", "POO", "MongoDB", "MVC", "JWT"
+      ]
+    },
+    {
+      "institution": "CoderHouse",
+      "url": "https://institution.com/",
+      "area": "Se desarrolla en el curso un sitio en Wordpress con pasarela de pago e integración con WooCommerce.",
+      "studyType": "Desarrollo Wordpress",
+      "startDate": "2022-02-01",
+      "endDate": "2022-04-01",
+      "score": "4.0",
+      "courses": [
+        "Wordpress", "PHP"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web", "Frontend", "Backend", "FullStack"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Drupal",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Nodejs",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Next",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web", "Frontend", "Diseño Responsive"
+      ]
+    }
+  ],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+        "name": "TeamBoot",
+        "startDate": "2023-12-01",
+        "endDate": "2023-12-22",
+        "description": "Clon de la aplicacion Discord",
+        "isActive": true,
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      },
+      {
+        "name": "MiroTeam",
+        "startDate": "2024-12-01",
+        "endDate": null,
+        "description": "Clon de la aplicacion Miro",
+        "isActive": true,
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      },
+      {
+        "name": "TEST",
+        "startDate": "2024-12-01",
+        "endDate": "2023-12-22",
+        "description": "Clon de la aplicacion Miro",
+        "isActive": false,
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      },
+      {
+        "name": "TEST",
+        "startDate": "2024-12-01",
+        "endDate": "2023-12-22",
+        "description": "Clon de la aplicacion Miro",
+        "isActive": false,
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      },
+      {
+        "name": "TEST",
+        "startDate": "2024-12-01",
+        "endDate": null,
+        "description": "Clon de la aplicacion Miro",
+        "isActive": false,
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      }
+    ]
+  }
