@@ -257,9 +257,13 @@
         "description": "Clon de la aplicacion Discord",
         "isActive": true,
         "highlights": [
-          "Won award at AIHacks 2016"
+          "Next",
+          "Prisma",
+          "Tailwind",
+          "Javascript",
+          "TypeScript"
         ],
-        "url": "https://project.com/"
+        "url": "https://github.com/Leancen22/TeamBoot"
       },
       {
         "name": "MiroTeam",
@@ -268,42 +272,84 @@
         "description": "Clon de la aplicacion Miro",
         "isActive": true,
         "highlights": [
-          "Won award at AIHacks 2016"
+          "Next",
+          "Prisma",
+          "Tailwind",
+          "Javascript",
+          "TypeScript"
         ],
         "url": "https://project.com/"
       },
       {
-        "name": "TEST",
+        "name": "Linux Command Palette",
         "startDate": "2024-12-01",
         "endDate": "2023-12-22",
-        "description": "Clon de la aplicacion Miro",
+        "description": "Emulacion de la consola de linux utilizando Rust",
         "isActive": false,
         "highlights": [
-          "Won award at AIHacks 2016"
+          "Rust",
+          "Linux"
         ],
-        "url": "https://project.com/"
+        "url": "https://github.com/Leancen22/Linux-command-palette"
       },
       {
-        "name": "TEST",
-        "startDate": "2024-12-01",
-        "endDate": "2023-12-22",
-        "description": "Clon de la aplicacion Miro",
-        "isActive": false,
-        "highlights": [
-          "Won award at AIHacks 2016"
-        ],
-        "url": "https://project.com/"
-      },
-      {
-        "name": "TEST",
-        "startDate": "2024-12-01",
+        "name": "Minecraft en la Web",
+        "startDate": "2022-12-01",
         "endDate": null,
-        "description": "Clon de la aplicacion Miro",
+        "description": "Minecraft utilizando React y Three.js",
         "isActive": false,
         "highlights": [
-          "Won award at AIHacks 2016"
+          "Javascript",
+          "React",
+          "Three.js"
         ],
-        "url": "https://project.com/"
+        "url": "https://github.com/Leancen22/Minecraft-React-Three.js"
+      },
+      {
+        "name": "Algoritmo Genetico DinoGame",
+        "startDate": "2022-12-01",
+        "endDate": "2023-12-22",
+        "description": "Algoritmo evolutivo que permite a una IA aprender a jugar Dino",
+        "isActive": false,
+        "highlights": [
+          "Python"
+        ],
+        "url": "https://github.com/Leancen22/Algoritmo-gen-tico-DinoGame"
+      },
+      {
+        "name": "Buscador de Canciones",
+        "startDate": "2021-12-01",
+        "endDate": "2021-12-22",
+        "description": "Buscador de canciones utilizando una API",
+        "isActive": false,
+        "highlights": [
+          "Javascript"
+        ],
+        "url": "https://github.com/Leancen22/Buscador-de-canciones"
+      },
+      {
+        "name": "Sitio de venta de guitarras",
+        "startDate": "2021-12-01",
+        "endDate": "2021-12-22",
+        "description": "Sitio de venta de guitarras utilizando Next y Strapi",
+        "isActive": false,
+        "highlights": [
+          "Next",
+          "Strapi"
+        ],
+        "url": "https://github.com/Leancen22/Sitio-de-venta-de-guitarras-"
+      },
+      {
+        "name": "Controlador de gastos personales",
+        "startDate": "2021-12-01",
+        "endDate": "2021-12-22",
+        "description": "Aplicacion que permite controlar los gastos personales.",
+        "isActive": false,
+        "highlights": [
+          "React",
+          "Javascript"
+        ],
+        "url": "https://github.com/Leancen22/Control-de-Gastos"
       }
     ]
   }
