@@ -251,11 +251,11 @@
     }],
     "projects": [
       {
-        "name": "TeamBoot",
-        "startDate": "2023-12-01",
-        "endDate": "2023-12-22",
-        "description": "Clon de la aplicacion Discord",
-        "isActive": true,
+        "name": "ScrapingTooler",
+        "startDate": "2024-12-01",
+        "endDate": "Actualidad",
+        "description": "Herramienta de scraping para extraer datos de paginas web",
+        "isActive": false,
         "highlights": [
           "Next",
           "Prisma",
@@ -263,7 +263,7 @@
           "Javascript",
           "TypeScript"
         ],
-        "url": "https://github.com/Leancen22/TeamBoot"
+        "url": "/"
       },
       {
         "name": "MiroTeam",
